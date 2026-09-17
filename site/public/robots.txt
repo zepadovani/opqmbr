@@ -1,0 +1,6 @@
+# O site republica, em formato navegável, dados que na Plataforma Sucupira só
+# existem registro a registro. Mesmo agregado e com supressão de n < 5, isso
+# cria perfis consolidados que a fonte não oferece (ver o apêndice de dados).
+# Enquanto a divulgação não for uma decisão tomada, o site fica fora dos índices.
+User-agent: *
+Disallow: /

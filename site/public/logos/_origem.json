@@ -1,0 +1,82 @@
+{
+  "udesc": {
+    "origem": "08-UDESC.png",
+    "sha256_16": "db73120cbce39ad4"
+  },
+  "uem": {
+    "origem": "16-UEM.png",
+    "sha256_16": "822012088edaa496"
+  },
+  "uepa": {
+    "origem": "15-UEPA.png",
+    "sha256_16": "103ac5ebe3cd185d"
+  },
+  "ufba": {
+    "origem": "09-UFBA.png",
+    "sha256_16": "fda1d00fd6c2d8a3"
+  },
+  "ufg": {
+    "origem": "10-UFG.png",
+    "sha256_16": "841f663090d8ec41"
+  },
+  "ufmg": {
+    "origem": "01-UFMG.png",
+    "sha256_16": "d3ce3ab3d5a1a14b"
+  },
+  "ufpb": {
+    "origem": "05-UFPB.png",
+    "sha256_16": "c5ef1acb08be8858"
+  },
+  "ufpe": {
+    "origem": "17-UFPE.png",
+    "sha256_16": "7d5f0b3d8c58edd9"
+  },
+  "ufpr": {
+    "origem": "11-UFPR.png",
+    "sha256_16": "8e12509132b3f73a"
+  },
+  "ufrgs": {
+    "origem": "03-UFRGS.png",
+    "sha256_16": "b6a71558b7b69249"
+  },
+  "ufrj": {
+    "origem": "06-UFRJ.png",
+    "sha256_16": "45119c7b93ee8655"
+  },
+  "ufrn": {
+    "origem": "19-UFRN.png",
+    "sha256_16": "9be709fb52e11925"
+  },
+  "ufsj": {
+    "origem": "13-UFSJ.png",
+    "sha256_16": "62f03b7f5b4eb0f4"
+  },
+  "ufu": {
+    "origem": "14-UFU.png",
+    "sha256_16": "e753dd957c9ce042"
+  },
+  "unb": {
+    "origem": "20-UNB.png",
+    "sha256_16": "f816a0a19287b229"
+  },
+  "unesp": {
+    "origem": "18-UNESP.png",
+    "sha256_16": "964ead6322947874"
+  },
+  "unespar": {
+    "origem": "12-UNESPAR.png",
+    "sha256_16": "af89a6861cc4da3a"
+  },
+  "unicamp": {
+    "origem": "02-UNICAMP.png",
+    "sha256_16": "1a2acde8dcdbf73f"
+  },
+  "unirio": {
+    "origem": "07-UNIRIO.png",
+    "sha256_16": "a7f313f785cd762e"
+  },
+  "usp": {
+    "origem": "04-USP.png",
+    "sha256_16": "ded211b21f5bc461"
+  }
+}
